@@ -1,0 +1,2 @@
+# hack
+analyse the competition
